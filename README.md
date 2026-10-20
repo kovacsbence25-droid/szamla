@@ -1,0 +1,2 @@
+# szamla
+szatmari szamla
